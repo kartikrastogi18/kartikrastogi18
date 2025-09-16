@@ -1,4 +1,4 @@
-### Hello, World! I'm Rahul 👋:
+# Hello, World! I'm Kartik 👋:
 - 🔭 I'm currently working on Web as a Service<br>
 - 🌱 I'm currently learning DSA in C++<br>
 - 💻 Languages & Tools: C | C++ | Python | Java<br>
