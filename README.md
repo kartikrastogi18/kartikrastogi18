@@ -1,13 +1,13 @@
-## 👽 About Me:
-- 🔭 I'm currently working on Web as a Service
-- 🌱 I'm currently learning DSA in C++
-- 💻 Languages & Tools: C | C++ | Python | Java
-- 🌐 Interests: Data Science | Web Dev | AI
-- 🤓 Always curious about how things work
-- 🎮 Love gaming & coding challenges
-- ☕ Coffee-powered developer
+##console.log("Hi there, I'm Rahul 👋");:
+- 🔭 I'm currently working on Web as a Service<br>
+- 🌱 I'm currently learning DSA in C++<br>
+- 💻 Languages & Tools: C | C++ | Python | Java<br>
+- 🌐 Interests: Data Science | Web Dev | AI<br>
+- 🤓 Always curious about how things work<br>
+- 🎮 Love gaming & coding challenges<br>
+- ☕ Coffee-powered developer<br>
 
-- ## 🌐 Socials:
+ ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kartik_rastogi_18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-rastogi-113236325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikrastogi4544@gmail.com) 
 
 # 💻 Tech Stack:
