@@ -1,4 +1,4 @@
-##console.log("Hi there, I'm Rahul 👋");:
+## console.log("Hi there, I'm Rahul 👋");:
 - 🔭 I'm currently working on Web as a Service<br>
 - 🌱 I'm currently learning DSA in C++<br>
 - 💻 Languages & Tools: C | C++ | Python | Java<br>
