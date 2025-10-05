@@ -1,4 +1,5 @@
 # Hello, World! I'm Kartik 👋:
+<a><img align="right" alt="Kartik Rastogi" width="375px" height="235px"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ4aGE5NjJkOG8zYms0bzU0MnpyMnlmZTZrNjZ0MnkxYWR0d3BpaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g2jj9VAIBluIreVNsb/giphy.gif"></a>
 - 🔭 I'm currently working on Web as a Service<br>
 - 🌱 I'm currently learning DSA in C++<br>
 - 💻 Languages & Tools: C | C++ | Python | Java<br>
