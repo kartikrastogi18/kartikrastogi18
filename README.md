@@ -1,5 +1,5 @@
 # Hello, World! I'm Kartik 👋:
-<a><img align="right" alt="Kartik Rastogi" width="375px" height="235px"  src="https://giffiles.alphacoders.com/360/36000.gif"></a>
+<a><img align="right" alt="Kartik Rastogi" width="375px" height="235px"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29tMnMwcWIwdXdqampndGMybm5saXE4MHAyMTZ4cHNmcWJqNjFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"></a>
 - 🔭 I'm currently working on Web as a Service<br>
 - 🌱 I'm currently learning DSA in C++<br>
 - 💻 Languages & Tools: C | C++ | Python | Java<br>
