@@ -1,5 +1,5 @@
 # Hello, World! I'm Kartik 👋
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+⚡️;300%2B+DSA+Questions+Solved+💡)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00BFFF&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+⚡️;400%2B+DSA+Questions+Solved+💡)
 <hr/>
 <a><img align="right" alt="Kartik Rastogi" width="375px" height="235px"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29tMnMwcWIwdXdqampndGMybm5saXE4MHAyMTZ4cHNmcWJqNjFhYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"></a>
 - 🔭 I'm currently working on Web as a Service<br>
