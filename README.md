@@ -19,9 +19,12 @@
  ![DSA](https://img.shields.io/badge/DSA-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=kartikrastogi18&theme=one_dark_pro&hide_border=true)<br/>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&layout=compact&langs_count=8)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=kartikrastogi18&theme=one_dark_pro&hide_border=true)
 
 
 
