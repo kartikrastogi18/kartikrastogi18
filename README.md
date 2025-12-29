@@ -20,11 +20,12 @@
 
 # 📊 GitHub Stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&layout=compact&langs_count=8)
+![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kartikrastogi18&theme=one_dark_pro&hide_border=true&layout=compact)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=kartikrastogi18&theme=one_dark_pro&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=kartikrastogi18&theme=one_dark_pro&hide_border=true)
+
 
 
 
